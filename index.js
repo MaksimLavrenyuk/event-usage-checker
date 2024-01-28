@@ -1,4 +1,4 @@
-import inquirer from 'inquirer';
+#!/usr/bin/env node
 import chalk from 'chalk';
 import { simpleGit } from 'simple-git';
 import path, { dirname } from 'path';
